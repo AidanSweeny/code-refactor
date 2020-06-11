@@ -5,7 +5,7 @@ For this project we were assigned to edit a marketing company's webpage so that 
 <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt = "SEO image with notepad and computer"/>
 ```
 I also had to refactor the image on the main part of the webpage so that it was actually created in the html document and could have an alt tag. The image is shown below after the changes that I made:
-<img class = "image" src = "./assets/images/digital-marketing-meeting.jpg" alt = "digital marketing meeting"/>
+<img class = "image" src = ".Screen Shot 2020-06-11 at 3.51.08 PM" alt = "screenshot"/>
 
 ## Getting Started
 

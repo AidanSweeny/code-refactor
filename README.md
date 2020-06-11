@@ -1,6 +1,9 @@
 # Code-Refactor
 
-For this project we were assigned to edit a marketing company's webpage so that it was much more organized and followed the acceptance requirements provided for us.
+For this project we were assigned to edit a marketing company's webpage so that it was much more organized and followed the acceptance requirements provided for us. I went into this html file and editted some of the different elements, such as the semantic elements and the headings, so that they were in sequential order. There were also some issues with brackets that did not need closing brackets. In addition to this I added alt tags to all of the images such as the line below:
+'
+<img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt = "SEO image with notepad and computer"/>
+'
 
 ## Getting Started
 
@@ -8,27 +11,19 @@ To get this project running, one must copy the files from the class repository.
 
 ### Prerequisites
 
-To have this project run, one must download VS Code off the appstore, and create a GitLab account. This can be done by downloading homebrew and using the command $ brew install git. 
+To have this project run, one must download VS Code off the appstore, and create a GitLab account. This can be done by downloading homebrew and using the command:
 
 ```
-Give examples
+$ brew install git. 
 ```
 
 ### Installing
 
 To install this project one must go through the GitHub website in order to clone this project. Clicking on the cone or download button and then copying the link that comes from that. One can then go into the Terminal application, and use the following command to copy the files:
 `
-git copy URL
+git clone URL
 `
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
+This should then be moved to your desktop, or somewhere else on your computer. This will allow access to the html and css files. Opening the html file in a default browser will allow one to observe the website.
 
 ## Built With
 
@@ -45,8 +40,6 @@ https://github.com/AidanSweeny/code-refactor
 
 - [Link to Github](https://github.com/AidanSweeny)
 - [Link to LinkedIn](https://www.linkedin.com/in/aidan-sweeny-81075030/)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 

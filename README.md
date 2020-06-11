@@ -4,11 +4,11 @@ For this project we were assigned to edit a marketing company's webpage so that 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+To get this project running, one must copy the files from the class repository.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+To have this project run, one must download VS Code off the appstore, and create a GitLab account. This can be done by downloading homebrew and using the command $ brew install git. 
 
 ```
 Give examples
@@ -37,20 +37,17 @@ End with an example of getting some data out of the system or using it for a lit
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Deployed Link
 
 * [See Live Site](#)
 
-
 ## Authors
 
-* **YOUR NAME** 
+* Aidan Sweeny
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
+- [Link to Github](https://github.com/AidanSweeny)
+- [Link to LinkedIn](https://www.linkedin.com/in/aidan-sweeny-81075030/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -60,6 +57,5 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+* Trilogy Education Services, a 2U, Inc. for the original website design
+

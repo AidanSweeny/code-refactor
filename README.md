@@ -37,8 +37,8 @@ This should then be moved to your desktop, or somewhere else on your computer. T
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Deployed Link
-https://github.com/AidanSweeny/code-refactor
-* [See Live Site](#)
+
+* [See Live Site](https://aidansweeny.github.io/code-refactor/)
 
 ## Authors
 

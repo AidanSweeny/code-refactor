@@ -1,9 +1,11 @@
 # Code-Refactor
 
 For this project we were assigned to edit a marketing company's webpage so that it was much more organized and followed the acceptance requirements provided for us. I went into this html file and editted some of the different elements, such as the semantic elements and the headings, so that they were in sequential order. There were also some issues with brackets that did not need closing brackets. In addition to this I added alt tags to all of the images such as the line below:
-'
+```
 <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt = "SEO image with notepad and computer"/>
-'
+```
+I also had to refactor the image on the main part of the webpage so that it was actually created in the html document and could have an alt tag. The image is shown below after the changes that I made:
+<img class = "image" src = "./assets/images/digital-marketing-meeting.jpg" alt = "digital marketing meeting"/>
 
 ## Getting Started
 

@@ -16,13 +16,10 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
+To install this project one must go through the GitHub website in order to clone this project. Clicking on the cone or download button and then copying the link that comes from that. One can then go into the Terminal application, and use the following command to copy the files:
+`
+git copy URL
+`
 
 And repeat
 
@@ -39,7 +36,7 @@ End with an example of getting some data out of the system or using it for a lit
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Deployed Link
-
+https://github.com/AidanSweeny/code-refactor
 * [See Live Site](#)
 
 ## Authors

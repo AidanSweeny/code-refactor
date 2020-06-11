@@ -13,10 +13,14 @@ To get this project running, one must copy the files from the class repository.
 
 ### Prerequisites
 
-To have this project run, one must download VS Code off the appstore, and create a GitLab account. This can be done by downloading homebrew and using the command:
+To have this project run, one must download VS Code off the appstore, and create a GitHub account. Git is also required to run this program, which can be downloaded 
 
 ```
 $ brew install git. 
+```
+Homebrew can also be downloaded by inputting the following command in the terminal:
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
 ### Installing
